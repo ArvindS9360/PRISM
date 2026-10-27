@@ -38,6 +38,6 @@ This project develops an end-to-end framework to:
 ---
 
 ## 👥 Team & Acknowledgments
-* **Author / Contributor:** Arvind S (Roll No: 26BCNB28)
+* **Contributor:** Arvind S (Roll No: 26BCNB28)
 * **Programme:** Department of Computer Applications, Kristu Jayanti University
 * **Course:** PRISM Semester I
